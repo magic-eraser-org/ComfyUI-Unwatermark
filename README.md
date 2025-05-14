@@ -35,7 +35,7 @@ This custom node for ComfyUI allows you to easily remove watermarks from your im
 ## How to Use
 
 1.  **Get an API Key:**
-    *   You need an API key from [unwatermark.ai](https://unwatermark.ai/). Visit their website to sign up and obtain your key.
+    *   You need an API key from [unwatermark.ai](https://unwatermark.ai/?ref=github_me). Visit their website to sign up and obtain your key.
 
 2.  **Add the Node in ComfyUI:**
     *   In ComfyUI, right-click on the canvas or use the "Add Node" menu.
@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## Acknowledgements
 
-*   This node uses the [unwatermark.ai](https://unwatermark.ai/) API for watermark removal.
+*   This node uses the [unwatermark.ai](https://unwatermark.ai/api/?ref=github_me) API for watermark removal.
