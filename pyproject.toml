@@ -1,0 +1,14 @@
+[project]
+name = "unwatermark"
+description = "ComfyUI-Unwatermark: A ComfyUI custom node to intelligently remove watermarks from images using the unwatermark.ai API.\nThis custom node for ComfyUI allows you to easily remove watermarks from your images by leveraging the power of the unwatermark.ai API."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/magic-eraser-org/ComfyUI-Unwatermark"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Unwatermark"
+Icon = ""
